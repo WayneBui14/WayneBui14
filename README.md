@@ -33,7 +33,13 @@ help people grow, build confidence, and do meaningful work in tech.
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6A00?style=for-the-badge&logo=github-actions&logoColor=white)
 ## Github Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WayneBui14&theme=dark&hide_border=true" />
+</p>
+
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=WayneBui14&show_icons=true&theme=dracula&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WayneBui14&layout=compact&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WayneBui14&theme=dark&hide_border=true)
+
+
+
 
