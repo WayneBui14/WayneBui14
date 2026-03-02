@@ -37,5 +37,3 @@ help people grow, build confidence, and do meaningful work in tech.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WayneBui14&layout=compact&theme=dark&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
 
-- ⚡ Fun fact: ...
--->
