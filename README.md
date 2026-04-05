@@ -1,9 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20I'm%20Wayne&fontSize=70)
 # About Me:
-I am a developer enthusiast devoted in designing and building web-based tools, working with development frameworks
+I am a full-stack developer, designer, and highschool student. I am interested in designing and building web-based tools, working with development frameworks
 like ReactJS, NextJS, Vite and HTML5.
 
-With a strong background in data engineering and software engineering, I’ve spent years designing scalable data systems, working with modern data stacks, and solving complex problems that sit at the intersection of data, product, and business.
+I start learning full-stack and work on random projects in my free time, i spend 6+ hours learning new things as a tech enthusiast!
 
 Whether it’s through workshops, community sessions, or content, my goal is simple:
 help people grow, build confidence, and do meaningful work in tech.
